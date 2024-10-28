@@ -4,10 +4,10 @@ Desarrollo de una aplicación sencilla que permita registrar alumnos ingresando 
 
 ## Índice
 
-1. [Tecnologías escogidas](#tecnologíasescogidas)
-2. [Dependencias del proyecto](#dependencias)
+1. [Tecnologías escogidas](#tecnologías-escogidas)
+2. [Dependencias del proyecto](#dependencias-del-proyecto)
 3. [Extensiones](#extensiones)
-4. [Configuración BD](#configuracionBD)
+4. [Configuración BD](#configuración-BD)
 5. [Uso](#uso)
 
 ## Tecnologías escogidas
