@@ -7,7 +7,7 @@ Desarrollo de una aplicación sencilla que permita registrar alumnos ingresando 
 1. [Tecnologías escogidas](#tecnologías-escogidas)
 2. [Dependencias del proyecto](#dependencias-del-proyecto)
 3. [Extensiones](#extensiones)
-4. [Configuración BD](#configuración-BD)
+4. [Configuración de BD](#configuración-de-BD)
 5. [Uso](#uso)
 
 ## Tecnologías escogidas
