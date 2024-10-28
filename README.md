@@ -22,6 +22,7 @@ Este proyecto PHP no utiliza dependencias esenciales para su funcionamiento.
  
 ## Extensiones
 Es necesaria la instalación de la extensión `PHP Server` de VSC para levantar la aplicación en servidor local.
+
 `ID de la extensión: brapifra.phpserver`
 
 
