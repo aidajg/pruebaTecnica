@@ -34,11 +34,15 @@ Al seleccionar la opción `Admin`, se despliega la herramienta phpMyAdmin. Es la
 
 `Base de datos 'Centro' creada con una sola tabla, 'Alumnado'`
 
+---
+
 Una vez se haya creado la BD ('Centro'), es momento de configurar la tabla. Haciendo uso de phpMyAdmin es sencillo, ya tiene integradas las ayudas necesarias para la configuración de los campos y el manejo adecuado de las tablas.
 
 ![image](https://github.com/user-attachments/assets/3c461bbc-14aa-4195-9374-33df5e6cbc55)
 
 `Diseñador: Visualización de los campos, tipo y longitud de la tabla 'Alumnado'`
+
+---
 
 Se han incluído los campos señalados en la tarea, que viajan a través del formulario para finalmente añadirse a la BD. Se ha añadido a mayores un identificador único (`COD`) para cada registro a modo de buenas prácticas, para una estructura de datos organizada y eficiente. Este campo puede no incluírse ya que no afecta a la funcionalidad de la tarea encomendada.
 
