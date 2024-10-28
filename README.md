@@ -53,9 +53,17 @@ Se han incluído los campos señalados en la tarea, que viajan a través del for
 Finalmente, esta sería la visualización final de los datos en la tabla.
 
 ## Uso
-Para poder ejecutar el proyecto es necesario seguir una serie de pasos:
+Para poder ejecutar el proyecto correctamente es necesario seguir una serie de pasos.
 
 1. Levantar localhost
+
 ![image](https://github.com/user-attachments/assets/59d70fa0-5dc7-4eef-9a9e-dc2595c0cd7c)
 
+`Despliegue de XAMPP y encendido de los módulos MySQL y Apache`
+
+2. Ejecutar la aplicación
+
+![image](https://github.com/user-attachments/assets/eaa763a3-3dae-47b8-af7b-b9871ad6ce69)
+
+`Ejecutar el archivo .php desde la extensión 'PHP Server: Serve Project'`
 
