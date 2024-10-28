@@ -1,15 +1,17 @@
-# Pr5ueba Técnica [Conexión a BD y CRUD básico]
+# Pruueba Técnica [Conexión a BD y CRUD básico]
 
-Pequeña descripción del proyecto: qué hace, por qué es útil o interesante.
+Desarrollo de una aplicación sencilla que permita registrar alumnos ingresando sus datos a través de un formulario y visualizar esos datos en una tabla HTML.
 
 ## Índice
 
-1. [Instalación](#instalación)
+1. [Tecnologías escogidas](#tecnologíasescogidas)
 2. [Uso](#uso)
 3. [Contribuciones](#contribuciones)
 4. [Licencia](#licencia)
 
-## Instalación
+## Tecnologías escogidas
+| PHP | 
+| MySQL |
 
 Instrucciones para instalar el proyecto en el entorno local.
 
