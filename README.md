@@ -33,7 +33,7 @@ Al seleccionar la opción `Admin`, se despliega la herramienta phpMyAdmin. Es la
 
 ![image](https://github.com/user-attachments/assets/2d0dab7a-05d3-4a64-86a3-39957eadeef4)
 
-`Base de datos 'Centro' creada con una sola tabla, 'Alumnado'`
+`Base de datos 'Centro'`
 
 ---
 
